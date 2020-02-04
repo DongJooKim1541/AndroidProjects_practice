@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kdj</string>
+    <string name="nav_header_subtitle">willkim4927@naver.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">설정</string>
+    <string name="action_finish">종료</string>
+
+    <string name="menu_home">회문수</string>
+    <string name="menu_gallery">제비뽑기</string>
+    <string name="menu_slideshow">스탑워치</string>
+    <string name="menu_tools">탭 메뉴</string>
+    <string name="menu_share">기억력 테스트</string>
+    <string name="menu_send">터치 이벤트</string>
+
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+</resources>
